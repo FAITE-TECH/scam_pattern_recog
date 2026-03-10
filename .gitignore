@@ -6,18 +6,6 @@ __pycache__/
 venv/
 .env
 
-# Model files
-model/
-*.pkl
-*.pt
-*.pth
-*.h5
-
-# Dataset
-dataset/
-data/
-*.csv
-*.parquet
 
 # IDE
 .vscode/
