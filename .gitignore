@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Model files
+model/
+*.pkl
+*.pt
+*.pth
+*.h5
+
+# Dataset
+dataset/
+data/
+*.csv
+*.parquet
+
+# IDE
+.vscode/
+.idea/
